@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Winter 2022 ❄️</b>
-  - [Space Evader 2D Game 🛸 ](https://github.com/SchneiderCJP/NSUEvader)
+  - [Space Evader 2D Game 🛸 ](https://github.com/SchneiderCJP/NSUEvader) <b><i> (Unity with C# code)</i></b>
 <!--
   - [Ice Cream Sundae Order App 🍨](https://github.com/SchneiderCJP)<b><i> (Kotlin Version)</i></b>
   - [Ice Cream Sundae Order App 🍦](https://github.com/SchneiderCJP)<b><i> (Flutter Version)</i></b>

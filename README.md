@@ -4,7 +4,7 @@
 
 - <b>Winter 2022 ❄️</b>
   - [Space Evader 2D Game 🛸 ](https://github.com/SchneiderCJP/NSUEvader) <b><i> (Unity with C# code)</i></b>
-  - [Ice Cream Sundae Order App 🍨](https://github.com/SchneiderCJP/IceCreamSundaeMaker-FlutterVersion)<b><i> (Android Studio Flutter Dart)</i></b>
+  - [Ice Cream Sundae Order App 🍨](https://github.com/SchneiderCJP/IceCreamSundaeMaker)<b><i> (Android Studio Flutter Dart)</i></b>
 <!--
 - <b>Fall 2021 🍂</b>
   - [Celebrity Flashcard Quiz 🗃️](https://github.com/SchneiderCJP)

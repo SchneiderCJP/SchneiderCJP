@@ -10,6 +10,5 @@
   - [My Personal Website 🌐](https://github.com/SchneiderCJP/MyPersonalWebsite) <b><i>(HTML)</i></b>
   - [Coin Toss (Heads or Tails) 🟡](https://github.com/SchneiderCJP/CoinToss) <b><i>(JavaScript & HTML)</i></b>
   - [Celebrity Flashcard Quiz 🗃️](https://github.com/SchneiderCJP/CelebrityFlashcardQuiz) <b><i>(PHP, JavaScript, HTML, & MySQL)</i></b>
-<!--
-  - [A Game Tracker 🎲](https://github.com/SchneiderCJP)
+  - [A Game Tracker 🎲](https://github.com/SchneiderCJP/GameTracker) <b><i>(PHP, Java, HTML, & MySQL)</i></b>
 -->

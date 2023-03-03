@@ -3,8 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
   
 - <b>Fall 2022 🍂</b>
-  - [Java Virtual Machine 💻 ](https://github.com/SchneiderCJP/JavaVirtualMachine) <b><i> (Java)</i></b>
   - [Race Simulation 🏎️ ](https://github.com/SchneiderCJP/RaceSimulation) <b><i> (Java)</i></b>
+  - [Java Virtual Machine 💻 ](https://github.com/SchneiderCJP/JavaVirtualMachine) <b><i> (Java)</i></b>
+  - [Bandwidth Cache Simulation 📶 ](https://github.com/SchneiderCJP/BandwidthCacheSimulation) <b><i> (Java)</i></b>
 
 - <b>Winter 2022 ❄️</b>
   - [Space Evader 2D Game 🛸 ](https://github.com/SchneiderCJP/NSUEvader) <b><i> (Unity with C# code)</i></b>

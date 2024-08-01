@@ -1,6 +1,9 @@
 <h1>Hi and Welcome, I'm <a href="https://www.linkedin.com/in/schneidercjp/">Schneider</a>! 👋🏽 <br/> 💻 Computer Science Major at NSU
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+-<b>Post-Grad 🎓</b>
+  - [The Score Keeper 🏆](https://github.com/SchneiderCJP/TheScoreKeeper) <b><i>(Java & mySQL)</i></b>
   
 - <b>Winter 2023 ❄️</b>
   - [The Score Keeper 🏆](https://github.com/SchneiderCJP/TheScoreKeeper) <b><i>(Java & mySQL)</i></b>

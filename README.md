@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
--<b>Post-Grad 🎓</b>
+- <b>Post-Grad 🎓</b>
   - [The Score Keeper 🏆](https://github.com/SchneiderCJP/TheScoreKeeper) <b><i>(Java & mySQL)</i></b>
   
 - <b>Winter 2023 ❄️</b>

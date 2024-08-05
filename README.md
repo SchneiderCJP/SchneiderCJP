@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Post-Grad 🎓</b>
-  - [Olivia's Kitchen 🍽️](https://github.com/SchneiderCJP/Olivias-Kitchen) <b><i>(Java & mySQL)</i></b>
-  - [Portfolio Website 👨🏽‍💻](https://github.com/SchneiderCJP/Portfolio) <b><i>(Java & mySQL)</i></b>
+  - [Olivia's Kitchen 🍽️](https://github.com/SchneiderCJP/Olivias-Kitchen) <b><i>(React,JavaScript,CSS, & HTML)</i></b>
+  - [Portfolio Website 👨🏽‍💻](https://github.com/SchneiderCJP/Portfolio) <b><i>(React,Vite,JavaScript,CSS, & HTM)</i></b>
   
 - <b>Winter 2023 ❄️</b>
   - [The Score Keeper 🏆](https://github.com/SchneiderCJP/TheScoreKeeper) <b><i>(Java & mySQL)</i></b>

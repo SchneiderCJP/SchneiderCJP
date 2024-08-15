@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Post-Grad 🎓</b>
-  -[Virtual Library 📚](https://github.com/SchneiderCJP/Virtual-Library) <b><i>(Node.js, Express, MySQL, React, JavaScript, HTML, CSS, Open Library API, etc.)</i></b>
+  - [Virtual Library 📚](https://github.com/SchneiderCJP/Virtual-Library) <b><i>(Node.js, Express, MySQL, React, JavaScript, HTML, CSS, Open Library API, etc.)</i></b>
   - [Olivia's Kitchen 🍽️](https://github.com/SchneiderCJP/Olivias-Kitchen) <b><i>(React, JavaScript, CSS, & HTML)</i></b>
   - [Portfolio Website 👨🏽‍💻](https://github.com/SchneiderCJP/Portfolio) <b><i>(React, Vite, JavaScript, CSS, & HTML)</i></b>
   
